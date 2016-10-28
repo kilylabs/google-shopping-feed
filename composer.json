@@ -1,6 +1,6 @@
 {
-    "name": "lukesnowden/google-shopping-feed",
-    "description": "Google Shopping Feed API",
+    "name": "kilylabs/google-shopping-feed",
+    "description": "Google Shopping Feed API (with ns problem fixed)",
     "homepage": "https://github.com/lukesnowden/google-shopping-feed",
     "license": "MIT",
     "keywords" : ["Google","Shopping","Google Shopping Feed","Feed","API"],
